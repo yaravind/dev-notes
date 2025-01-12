@@ -18,6 +18,7 @@ git add .
 # Commit changes.
 msg="rebuilding site $(date)"
 if [ -n "$*" ]; then
+    echo "msg: $*"
 	msg="$*"
 fi
 git commit -m "$msg"
