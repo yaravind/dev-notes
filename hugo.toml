@@ -1,4 +1,4 @@
 baseURL = 'https://yaravind.github.io/'
 languageCode = 'en-us'
-title = 'Aravind Notes'
+title = 'Aravind Yarram Notes'
 theme = 'hugo-theme-techdoc'
